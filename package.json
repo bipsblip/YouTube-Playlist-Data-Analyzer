@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^19.6.3",
+    "xlsx": "^0.18.5"
+  }
+}
