@@ -29,8 +29,8 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 ## 🚀 About Me
 I'm a front-end web developer, with impressive problem-solving skills, tech knowledge, and hustling energy.
 
-## 🛠 Skills
-Java, Javascript, HTML, CSS, Puppeteer.js, Oops and Data structure.
+## 🛠 Skills used in project
+Javascript, HTML, CSS, Puppeteer.js, Oops and Data structure.
 
 ## 🔗 Connect With ME!
 [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=)](https://github.com/bipsblip)
